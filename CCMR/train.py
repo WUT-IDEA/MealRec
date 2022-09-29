@@ -3,8 +3,6 @@ from CCMR import CCMRModelEngine
 from data import RecipeMealDatasetGenerator
 from utils import seed_it
 
-seed_it(42)
-
 CCMR_config = {'model_name': 'CCMR',
                'alias': '{}_dim{}_bz{}_lr{}',
                'data_path': './data/MealRec',
