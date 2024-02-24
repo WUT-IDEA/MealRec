@@ -8,7 +8,6 @@ https://drive.google.com/drive/folders/1AhsODmR1xRJsY8VwOaQbfpi85GBw_0ZR?usp=sha
 提取码：ph90
 
 # Citation \
-\
 If you want to use our datasets in your research, please cite:
 ```
 @article{MealRec2022,
